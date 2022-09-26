@@ -1,0 +1,19 @@
+#showAllBtn {
+  background-color: rgb(32, 32, 250);
+  color: white;
+  padding: 5px;
+  cursor: pointer;
+}
+#completedBtn {
+  background-color: green;
+  color: white;
+  padding: 5px;
+  cursor: pointer;
+}
+
+#pendingBtn {
+  background-color: red;
+  color: white;
+  padding: 5px;
+  cursor: pointer;
+}

@@ -1,0 +1,24 @@
+main {
+  width: 100%;
+  height: 100vh;
+}
+.fullwidth {
+  display: flex;
+}
+#list {
+  width: 50%;
+}
+li {
+  list-style-type: disc;
+}
+.imgcont {
+  width: 50%;
+}
+#heading {
+  width: 50%;
+  text-align: center;
+  margin-top: 200px;
+}
+img {
+  width: 100%;
+}

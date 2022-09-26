@@ -1,0 +1,35 @@
+* {
+  margin: 0;
+}
+#first_block_1 {
+  display: inline-block;
+  width: 50%;
+  margin-top: 50px;
+  float: left;
+}
+#first_block_2 {
+  display: inline-block;
+  width: 50%;
+  float: left;
+}
+li {
+  list-style-type: disc;
+}
+#sec_block_1 {
+  display: inline-block;
+  width: 50%;
+  float: left;
+}
+#sec_block_2 {
+  display: inline-block;
+  width: 50%;
+  float: left;
+}
+img {
+  width: fit-content;
+  height: 505px;
+}
+h1 {
+  text-align: center;
+  margin-top: 200px;
+}
